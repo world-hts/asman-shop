@@ -1,0 +1,2 @@
+id,slug,name_tk,name_ru,name_en,description_tk,description_ru,description_en,category,price,currency,stock,image,featured,active,sort_order
+product-001,urun-slug,Önüm ady,Название товара,Product name,Beýan,Davany description,Description,phones,0,TMT,0,,false,true,0
